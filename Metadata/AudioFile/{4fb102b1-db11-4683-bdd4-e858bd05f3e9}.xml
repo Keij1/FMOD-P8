@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4fb102b1-db11-4683-bdd4-e858bd05f3e9}">
+		<property name="assetPath">
+			<value>Chopping ingredients.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>8.3000833333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{02fde304-5355-4331-a6e6-5eb2ad280303}</destination>
+		</relationship>
+	</object>
+</objects>

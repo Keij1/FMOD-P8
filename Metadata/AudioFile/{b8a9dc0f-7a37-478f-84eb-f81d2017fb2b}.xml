@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b8a9dc0f-7a37-478f-84eb-f81d2017fb2b}">
+		<property name="assetPath">
+			<value>Female hello.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.74399999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{02fde304-5355-4331-a6e6-5eb2ad280303}</destination>
+		</relationship>
+	</object>
+</objects>
