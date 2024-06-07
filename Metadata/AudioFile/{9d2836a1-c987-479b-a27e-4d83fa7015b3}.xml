@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9d2836a1-c987-479b-a27e-4d83fa7015b3}">
+		<property name="assetPath">
+			<value>Music/SNS_GamePlay_S1_L2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>20.214020833333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{02fde304-5355-4331-a6e6-5eb2ad280303}</destination>
+		</relationship>
+	</object>
+</objects>
